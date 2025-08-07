@@ -9,3 +9,5 @@ Built with HTML, CSS, and Vanilla JavaScript.
 - Responsive design for mobile and desktop
 
 # Live Demo
+https://sakshishahu.github.io/DrinkingWaterTracker
+
